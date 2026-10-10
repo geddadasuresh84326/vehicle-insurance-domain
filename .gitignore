@@ -7,6 +7,9 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.ml_env
+logs
+notebook/data.csv
 .vscode
 .Python
 build/
